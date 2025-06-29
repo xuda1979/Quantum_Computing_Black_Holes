@@ -1,2 +1,6 @@
 qiskit
 numpy
+matplotlib
+qiskit-machine-learning
+torch
+pytest
